@@ -16,7 +16,7 @@ namespace TheatreSystem.Models
 */
 
         public Context()
-            : base("TheatreDB1")
+            : base("TheatreDB2")
         {
 
         }
