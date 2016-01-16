@@ -20,6 +20,12 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <MvcProjectUpgradeChecked>true</MvcProjectUpgradeChecked>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -133,13 +139,9 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201601161407291_AddDb.cs" />
-    <Compile Include="Migrations\201601161407291_AddDb.Designer.cs">
-      <DependentUpon>201601161407291_AddDb.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201601161414339_qwer.cs" />
-    <Compile Include="Migrations\201601161414339_qwer.Designer.cs">
-      <DependentUpon>201601161414339_qwer.cs</DependentUpon>
+    <Compile Include="Migrations\201601161507351_Db.cs" />
+    <Compile Include="Migrations\201601161507351_Db.Designer.cs">
+      <DependentUpon>201601161507351_Db.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Author.cs" />
@@ -156,8 +158,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Data\aspnet-TheatreSystem-20160116142755.mdf" />
-    <Content Include="App_Data\aspnet-TheatreSystem-20160116142755_log.ldf" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -246,7 +246,9 @@
     <Content Include="Scripts\knockout-2.1.0.js" />
     <Content Include="Scripts\modernizr-2.5.3.js" />
     <Content Include="Scripts\_references.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
@@ -259,16 +261,15 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201601161407291_AddDb.resx">
-      <DependentUpon>201601161407291_AddDb.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201601161414339_qwer.resx">
-      <DependentUpon>201601161414339_qwer.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201601161507351_Db.resx">
+      <DependentUpon>201601161507351_Db.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

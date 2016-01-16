@@ -1,0 +1,5 @@
+Backup
+packages
+TheatreSystem/bin
+TheatreSystem/App_Data/*
+TheatreSystem/obj
