@@ -1,0 +1,75 @@
+﻿@model PagedList.IPagedList < TheatreSystem.Models.Play>
+@using PagedList.Mvc;
+
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Пьесы";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Список пьес</h2>
+
+<p>
+    @if (ViewBag.IsModerator)
+    {
+        @Html.ActionLink("Добавить пьесу", "Create")
+    }
+</p>
+
+@using (Html.BeginForm("Index", "Plays", FormMethod.Get, new { @class = "form-inline" }))
+{ 
+    <p>
+        @Html.TextBox("SearchString", ViewBag.CurrentFilter as string, new { @class = "form-control" })
+        <input class="btn btn-default" type="submit" value="Искать" />
+    </p>
+}
+
+<table class="table table-border">
+    <tr>
+        <th>
+            Дата
+            @*http://www.asp.net/mvc/overview/getting-started/getting-started-with-ef-using-mvc/sorting-filtering-and-paging-with-the-entity-framework-in-an-asp-net-mvc-application*@
+            @*@Html.DisplayNameFor(model => model.DatePlay)*@
+        </th>
+        <th>
+            Название
+            @*@Html.DisplayNameFor(model => model.Name)*@
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.ActionLink(item.DatePlay.ToString("dd.MM.yyyy"), "TicketsInfo", new { id = item.Id })
+                @*@Html.DisplayFor(modelItem => item.DatePlay)*@
+            </td>
+            <td>
+                @Html.ActionLink(item.Name==null?" ":item.Name, "Details", new { id = item.Id })
+            </td>
+            <td style="text-align:center;">
+                @if (ViewBag.IsModerator)
+                {
+                    @Html.ActionLink("Редактировать ", "Edit", new { id = item.Id }) 
+                    <span> | </span>
+
+                    @Html.ActionLink("Удалить", "Delete", new { id = item.Id })
+                    <span> | </span>
+                }
+                @Html.ActionLink("Подробнее ", "Details", new { id = item.Id })
+                 | 
+                @Html.ActionLink("Сделать заказ", "TicketsInfo", new { id = item.Id })
+
+            </td>
+        </tr>
+    }
+
+</table>
+
+<br />
+Страница @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) из @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))

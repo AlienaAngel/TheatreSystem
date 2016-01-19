@@ -1,0 +1,355 @@
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\roslyn\csc.exe
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\roslyn\vbc.exe
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\roslyn\VBCSCompiler.exe
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\TheatreSystem.dll.config
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\TheatreSystem.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\TheatreSystem.pdb
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\System.Web.Helpers.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\System.Web.Mvc.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\System.Web.Razor.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Deployment.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\System.Web.Webpages.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Razor.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\System.Web.Razor.xml
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\System.Web.Webpages.xml
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Deployment.xml
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Razor.xml
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\System.Web.Helpers.xml
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\System.Web.Mvc.xml
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.csprojResolveAssemblyReference.cache
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.pdb
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\Newtonsoft.Json.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\System.Net.Http.Formatting.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\System.Web.Http.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\System.Web.Http.WebHost.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\Newtonsoft.Json.xml
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\System.Net.Http.Formatting.xml
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\System.Web.Http.xml
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\System.Web.Http.WebHost.xml
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\EntityFramework.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\EntityFramework.SqlServer.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\EntityFramework.xml
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\EntityFramework.SqlServer.xml
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.CreateDb.resources
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.csproj.GenerateResource.Cache
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddTable.resources
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddTicketsTable.resources
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddTables.resources
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.UpdTables.resources
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.UpdTable2.resources
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddPass.resources
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddName.resources
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\PagedList.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\PagedList.Mvc.dll
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\PagedList.xml
+E:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\bin\PagedList.Mvc.xml
+e:\Clouds\YandexDisk\Общие\Наталья Махнач\ASP\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddPlaces.resources
+d:\Университет\TheatreApp\TheatreSystem\bin\roslyn\csc.exe
+d:\Университет\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\Университет\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\Университет\TheatreApp\TheatreSystem\bin\roslyn\System.Collections.Immutable.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\roslyn\System.Reflection.Metadata.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\roslyn\vbc.exe
+d:\Университет\TheatreApp\TheatreSystem\bin\roslyn\VBCSCompiler.exe
+d:\Университет\TheatreApp\TheatreSystem\bin\roslyn\VBCSCompiler.exe.config
+d:\Университет\TheatreApp\TheatreSystem\bin\TheatreSystem.dll.config
+d:\Университет\TheatreApp\TheatreSystem\bin\TheatreSystem.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\TheatreSystem.pdb
+d:\Университет\TheatreApp\TheatreSystem\bin\EntityFramework.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\EntityFramework.SqlServer.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\Microsoft.Web.Infrastructure.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\Newtonsoft.Json.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\PagedList.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\PagedList.Mvc.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\System.Net.Http.Formatting.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\System.Web.Helpers.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\System.Web.Http.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\System.Web.Http.WebHost.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\System.Web.Mvc.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\System.Web.Razor.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Deployment.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\System.Web.Webpages.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Razor.dll
+d:\Университет\TheatreApp\TheatreSystem\bin\EntityFramework.xml
+d:\Университет\TheatreApp\TheatreSystem\bin\EntityFramework.SqlServer.xml
+d:\Университет\TheatreApp\TheatreSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\Университет\TheatreApp\TheatreSystem\bin\Newtonsoft.Json.xml
+d:\Университет\TheatreApp\TheatreSystem\bin\PagedList.xml
+d:\Университет\TheatreApp\TheatreSystem\bin\PagedList.Mvc.xml
+d:\Университет\TheatreApp\TheatreSystem\bin\System.Net.Http.Formatting.xml
+d:\Университет\TheatreApp\TheatreSystem\bin\System.Web.Http.xml
+d:\Университет\TheatreApp\TheatreSystem\bin\System.Web.Http.WebHost.xml
+d:\Университет\TheatreApp\TheatreSystem\bin\System.Web.Razor.xml
+d:\Университет\TheatreApp\TheatreSystem\bin\System.Web.Webpages.xml
+d:\Университет\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Deployment.xml
+d:\Университет\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Razor.xml
+d:\Университет\TheatreApp\TheatreSystem\bin\System.Web.Helpers.xml
+d:\Университет\TheatreApp\TheatreSystem\bin\System.Web.Mvc.xml
+d:\Университет\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.csprojResolveAssemblyReference.cache
+d:\Университет\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.CreateDb.resources
+d:\Университет\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddTable.resources
+d:\Университет\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddTicketsTable.resources
+d:\Университет\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddTables.resources
+d:\Университет\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.UpdTables.resources
+d:\Университет\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.UpdTable2.resources
+d:\Университет\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddPass.resources
+d:\Университет\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddName.resources
+d:\Университет\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddPlaces.resources
+d:\Университет\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.csproj.GenerateResource.Cache
+d:\Университет\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.dll
+d:\Университет\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.pdb
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\csc.exe
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\System.Collections.Immutable.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\System.Reflection.Metadata.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\vbc.exe
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\VBCSCompiler.exe
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\VBCSCompiler.exe.config
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\TheatreSystem.dll.config
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\TheatreSystem.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\TheatreSystem.pdb
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\EntityFramework.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\EntityFramework.SqlServer.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Microsoft.Web.Infrastructure.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Newtonsoft.Json.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\PagedList.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\PagedList.Mvc.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Net.Http.Formatting.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Helpers.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Http.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Http.WebHost.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Mvc.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Razor.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Deployment.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Razor.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\EntityFramework.xml
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\EntityFramework.SqlServer.xml
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Newtonsoft.Json.xml
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\PagedList.xml
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\PagedList.Mvc.xml
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Net.Http.Formatting.xml
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Http.xml
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Http.WebHost.xml
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Razor.xml
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.xml
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Deployment.xml
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Razor.xml
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Helpers.xml
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Mvc.xml
+d:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.csprojResolveAssemblyReference.cache
+d:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.CreateDb.resources
+d:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddTable.resources
+d:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddTicketsTable.resources
+d:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddTables.resources
+d:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.UpdTables.resources
+d:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.UpdTable2.resources
+d:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddPass.resources
+d:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddName.resources
+d:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddPlaces.resources
+d:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.csproj.GenerateResource.Cache
+d:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.dll
+d:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.pdb
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\csc.exe
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\System.Collections.Immutable.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\System.Reflection.Metadata.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\vbc.exe
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\VBCSCompiler.exe
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\VBCSCompiler.exe.config
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\TheatreSystem.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\TheatreSystem.pdb
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\EntityFramework.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\EntityFramework.SqlServer.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Newtonsoft.Json.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\PagedList.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\PagedList.Mvc.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Net.Http.Formatting.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Helpers.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Http.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Http.WebHost.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Mvc.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Razor.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Deployment.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Razor.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\EntityFramework.xml
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\EntityFramework.SqlServer.xml
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Newtonsoft.Json.xml
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\PagedList.xml
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\PagedList.Mvc.xml
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Net.Http.Formatting.xml
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Http.xml
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Http.WebHost.xml
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Razor.xml
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.xml
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Deployment.xml
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Razor.xml
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Helpers.xml
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Mvc.xml
+h:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.csprojResolveAssemblyReference.cache
+h:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.CreateDb.resources
+h:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddTable.resources
+h:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddTicketsTable.resources
+h:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddTables.resources
+h:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.UpdTables.resources
+h:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.UpdTable2.resources
+h:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddPass.resources
+h:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddName.resources
+h:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddPlaces.resources
+h:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.csproj.GenerateResource.Cache
+h:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.dll
+h:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.pdb
+d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\App_Data\klever.gif
+h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Content\klever.gif
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Content\klever.gif
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\csc.exe
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\System.Collections.Immutable.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\System.Reflection.Metadata.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\vbc.exe
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\VBCSCompiler.exe
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\VBCSCompiler.exe.config
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\TheatreSystem.dll.config
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\TheatreSystem.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\TheatreSystem.pdb
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\EntityFramework.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\EntityFramework.SqlServer.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Newtonsoft.Json.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\PagedList.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\PagedList.Mvc.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Net.Http.Formatting.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Helpers.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Http.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Http.WebHost.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Mvc.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Razor.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Deployment.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Razor.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\EntityFramework.xml
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\EntityFramework.SqlServer.xml
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Newtonsoft.Json.xml
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\PagedList.xml
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\PagedList.Mvc.xml
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Net.Http.Formatting.xml
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Http.xml
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Http.WebHost.xml
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Razor.xml
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.xml
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Deployment.xml
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Razor.xml
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Helpers.xml
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Mvc.xml
+F:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.csprojResolveAssemblyReference.cache
+F:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.CreateDb.resources
+F:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddTable.resources
+F:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddTicketsTable.resources
+F:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddTables.resources
+F:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.UpdTables.resources
+F:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.UpdTable2.resources
+F:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddPass.resources
+F:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddName.resources
+F:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddPlaces.resources
+F:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.csproj.GenerateResource.Cache
+F:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.dll
+F:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.pdb
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Content\klever.gif
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\csc.exe
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\System.Collections.Immutable.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\System.Reflection.Metadata.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\vbc.exe
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\VBCSCompiler.exe
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\VBCSCompiler.exe.config
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\TheatreSystem.dll.config
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\TheatreSystem.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\TheatreSystem.pdb
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\EntityFramework.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\EntityFramework.SqlServer.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Newtonsoft.Json.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\PagedList.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\PagedList.Mvc.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Net.Http.Formatting.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Helpers.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Http.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Http.WebHost.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Mvc.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Razor.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Deployment.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Razor.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\EntityFramework.xml
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\EntityFramework.SqlServer.xml
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Newtonsoft.Json.xml
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\PagedList.xml
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\PagedList.Mvc.xml
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Net.Http.Formatting.xml
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Http.xml
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Http.WebHost.xml
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Razor.xml
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.xml
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Deployment.xml
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Webpages.Razor.xml
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Helpers.xml
+i:\Univer\РПБД\TheatreApp\TheatreSystem\bin\System.Web.Mvc.xml
+i:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.csprojResolveAssemblyReference.cache
+i:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.CreateDb.resources
+i:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddTable.resources
+i:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddTicketsTable.resources
+i:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddTables.resources
+i:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.UpdTables.resources
+i:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.UpdTable2.resources
+i:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddPass.resources
+i:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddName.resources
+i:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddPlaces.resources
+i:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.csproj.GenerateResource.Cache
+i:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.dll
+i:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.pdb
+F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Microsoft.Web.Infrastructure.dll

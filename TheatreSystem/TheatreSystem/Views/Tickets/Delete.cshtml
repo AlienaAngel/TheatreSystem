@@ -1,0 +1,46 @@
+﻿@model TheatreSystem.Models.Ticket
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+    <legend>Ticket</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Serial)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Serial)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Date.Id)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Date.Id)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Place.Id)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Place.Id)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Order.Id)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Order.Id)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+}

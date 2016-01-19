@@ -1,0 +1,50 @@
+﻿@model TheatreSystem.Models.Ticket
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Подробнее</h2>
+
+<div>
+    <h4>Билет</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            <b>Заказчик</b>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Order.User.Name)
+        </dd>
+
+        <dt>
+            <b>Информация</b>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Play.Info)
+        </dd>
+
+        <dt>
+            <b>Зона</b>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Place.Zone.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Serial)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Serial)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Назад к списку", "Index")
+</p>

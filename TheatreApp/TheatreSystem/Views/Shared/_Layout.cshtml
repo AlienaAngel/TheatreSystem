@@ -1,0 +1,145 @@
+﻿<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+    <link rel="shortcut icon" href="~/Content/clover.ico" type="image/x-icon">
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Театр</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/jquery-1.9.1.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+
+
+    <script type="text/javascript" src="~/Scripts/moment.min.js"></script>
+    <script type="text/javascript" src="~/Scripts/bootstrap-datetimepicker.min.js"></script>
+    <link rel="stylesheet" href="~/Content/bootstrap-datetimepicker.min.css" />
+
+
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    @using TheatreSystem.Models
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top main-header">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">
+                    @Html.ActionLink("Театр", "Index", "Plays", new { area = "" }, new { @class = "navbar-brand" })
+                </a>
+            </div>
+
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>
+                        @* class="active" *@
+                        @if (ViewBag.IsModerator)
+                        {
+                            @Html.ActionLink("Билеты", "Index", "Tickets")
+                        }
+                    </li>
+                    <li>
+                        @if (ViewBag.IsModerator)
+                        {
+                            @Html.ActionLink("Заказы", "Index", "Orders")
+                        }
+                    </li>
+                    <li>
+                        @Html.ActionLink("Зоны", "Index", "Zones")
+                    </li>
+                    <li>
+                        @if (ViewBag.IsAdmin)
+                        {
+                            @Html.ActionLink("Пользователи", "Index", "Users")
+                        }
+                    </li>
+                    <li>
+                        @if (ViewBag.IsAdmin)
+                        {
+                            @Html.ActionLink("Роли", "Index", "Roles")
+                        }
+                    </li>
+                    <li>
+                        @if (ViewBag.IsModerator)
+                        {
+                            @Html.ActionLink("Отчет", "Index", "Reports")
+                        }
+                    </li>
+                    <li>
+                        @if (ViewBag.IsUser)
+                        {
+                            @Html.ActionLink("Новый заказ", "Index", "Plays")
+                        }
+                    </li>
+                    <li>
+                        @if (ViewBag.IsAdmin)
+                        {
+                            @Html.ActionLink("Места", "Index", "Places")
+                        }
+                    </li>
+
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        @if (ViewBag.IsUser)
+                        {
+                            @Html.ActionLink("Мои заказы", "Index", "Account")
+                        }
+                    </li>
+                    <li>
+                        <a>
+                            @if (Session["user"] != null)
+                            {
+                                User user = (User)Session["user"];
+                                @user.Email
+
+                            }
+                        </a>
+                    </li>
+
+                    <li>
+                        @if (Session["user"] != null)
+                        {
+                            @Html.ActionLink("Выйти", "Logout", "Login");
+                        }
+                        else
+                        {
+                            @Html.ActionLink("Войти", "Index", "Login")
+                        }
+                    </li>
+                    <li>
+                        @if (Session["user"] == null)
+                        {
+                            @Html.ActionLink("Регистрация", "Index", "Registration")
+                        }
+                    </li>
+                </ul>
+            </div><!--/.nav-collapse -->
+        </div>
+    </nav>
+
+
+
+    <div class="container body-content body-color">
+        @RenderBody()
+        <hr style="color: #0e5c14"/>
+        <div class="no-print" align="center">
+            <img src="~/Content/klever.gif" height="80" />
+            <img src="~/Content/klever.gif" height="80" />
+            <img src="~/Content/klever.gif" height="80" />
+            <img src="~/Content/klever.gif" height="80" />
+        </div>
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Махнач Наталья Сергеевна</p>
+
+        </footer>
+    </div>
+
+</body>
+</html>

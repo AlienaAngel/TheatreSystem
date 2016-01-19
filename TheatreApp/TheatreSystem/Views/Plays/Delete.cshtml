@@ -1,0 +1,41 @@
+﻿@model TheatreSystem.Models.Play
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Удалить пьесу</h2>
+
+<h3>Вы уверены, что хотите удалить пьесу?</h3>
+<div>
+    <h4>Пьеса</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            <b>Дата</b>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DatePlay)
+        </dd>
+
+        <dt>
+            <b>Информация</b>
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Info)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Удалить" class="btn btn-default" /> |
+            @Html.ActionLink("Назад к списку", "Index")
+        </div>
+    }
+</div>

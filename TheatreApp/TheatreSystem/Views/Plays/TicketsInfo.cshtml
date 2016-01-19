@@ -1,0 +1,55 @@
+﻿@model IEnumerable<TheatreSystem.Models.ZoneInfoViewModel>
+
+@using TheatreSystem.Models;
+
+@{
+    ViewBag.Title = "TicketsInfo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Информация по билетам на пьесу @ViewBag.Play.Name:</h2>
+
+@if (!ViewBag.isUser)
+{
+     <h3 style="color: orangered;">Вы не можете заказывать билеты, войдите под своей учетной записью.</h3>
+}
+
+    <hr>
+    @foreach (var item in Model)
+    {
+        <h4>
+            @item.Name
+            <span>: (</span>
+            @item.CountFree
+            <span>/</span>
+            @item.CountOrdered
+            <span>)</span>
+        </h4>
+        <p>Выберите свободное место:</p>
+        <div>
+            @{var attr = ""; }
+
+            @if (!ViewBag.isUser)
+            {
+                attr = "disabled = \"disabled\"";
+            }
+
+            @foreach (Place place in item.FreePlaces)
+            {
+                using (Html.BeginForm("NewOrder", "Plays", FormMethod.Get, new { @class = "inline-block" }))
+                {
+                    <span>
+                        <input type="hidden" name="idPlay" value="@ViewBag.Play.Id" />
+                        <input type="hidden" name="idPlace" value="@place.Id" />
+                        <input @(attr) class="btn btn-default" type="submit" value="@place.Number" />
+                    </span>
+                }
+                @*@Html.ActionLink("[" + place.Number.ToString() + "]", "NewOrder", "Plays", new { idPlay = ViewBag.Play.Id, idPlace = place.Id })*@
+            }
+        </div>
+        @*@Html.ActionLink("Сделать заказ","NewOrder" ,new { idTicket = 1,  idZone = 1})*@
+        <hr />
+    }
+    <p>
+        @Html.ActionLink("Назад к списку", "Index")
+    </p>

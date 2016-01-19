@@ -30,7 +30,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="#">
-                    @Html.ActionLink("Театр", "Index", "Plays", new { area = "" }, new { @class = "navbar-brand" })
+                    @Html.ActionLink("Театр", "Index", "Play", new { area = "" }, new { @class = "navbar-brand" })
                 </a>
             </div>
 
@@ -73,7 +73,7 @@
                     <li>
                         @if (true /*ViewBag.IsUser*/)
                         {
-                            @Html.ActionLink("Новый заказ", "Index", "Plays")
+                            @Html.ActionLink("Новый заказ", "Index", "Play")
                         }
                     </li>
                     <li>

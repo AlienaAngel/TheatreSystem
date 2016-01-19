@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "NewOrder";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Вы собираетесь оформить заказ</h2>
+
+Название пьесы: 
+@ViewBag.Play.Name
+
+Место:
+@ViewBag.Place.Number
+<hr />
+<div>
+    @Html.ActionLink("К списку пьес", "Index")
+</div>
+
+ @using (Html.BeginForm("ConfirmOrder", "Plays", FormMethod.Post, new { @class = "inline-block" }))
+                {
+<span>
+    <input type="hidden" name="idPlay" value="@ViewBag.Play.Id" />
+    <input type="hidden" name="idPlace" value="@ViewBag.Place.Id" />
+    <input class="btn btn-default" type="submit" value="Подтвердить заказ" />
+</span>
+                }

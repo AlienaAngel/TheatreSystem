@@ -1,0 +1,42 @@
+﻿@model IEnumerable<dynamic>
+
+@{
+   
+        ViewBag.Title = "Index";
+        Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<a class="no-print" href="javascript:window.print()"><span class="glyphicon glyphicon-print"></span> [Печать]</a>
+<h1>Отчет на @DateTime.Now.ToString("dd.MM.yyyy") по неоплаченным заказам</h1>
+<h3>Общая сумма стоимости неоплаченных билетов: @ViewBag.NotPaid</h3>
+<h3>Список клиентов с неподтвержденными заказами</h3>
+<table class="table table-striped">
+    <tr>
+        <th>
+            Имя
+        </th>
+        <th>
+            E-mail
+        </th>
+        <th>
+             Долг
+        </th>
+    </tr>
+
+    @foreach (dynamic item in Model)
+    {
+        <tr>
+            <td>
+                @item.Name
+            </td>
+            <td>
+                @item.Email
+            </td>
+            <td>
+                @item.Debt
+            </td>
+        </tr>
+
+    }
+</table>
+    
+

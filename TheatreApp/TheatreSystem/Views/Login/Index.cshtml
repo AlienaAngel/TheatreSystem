@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Авторизация:</h2>
+        <form method="post">
+            <div class="form-group">
+                <label for="email-input">Электронная почта</label>
+                <input type="email" name="email" class="form-control" id="email-input" placeholder="e-mail">
+            </div>
+
+            <div class="form-group">
+                <label for="exampleInputPassword1">Пароль</label>
+                <input type="password" name="password" class="form-control" id="exampleInputPassword1" placeholder="Пароль">
+            </div>
+
+            @*<div class="form-group">
+                <label for="exampleInputFile">File input</label>
+                <input type="file" id="exampleInputFile">
+                <p class="help-block">Example block-level help text here.</p>
+            </div>*@
+            <button type="submit" class="btn btn-default">Войти</button>
+        </form>
+       
+    </div>
+    <div class="col-md-8">
+        <h2>Добро пожаловать в наш театр</h2>
+        <p>Наш театр самый театральный театр в мире!</p>
+        <p style="font-size: 10px;">театр.</p>
+        <p>Наша автоматизированная система сделает покупку билетов настолько простой и приятной, что вы не сможете ходить в другие театры. Все лучшее для вас:</p>
+        <ul>
+            <li>Просмотр афиши</li>
+            <li>Заказ билетов</li>
+            <li>Оплата через курьеров</li>
+            <li>Управление <span style="text-decoration:line-through;"><a href="javascript:alert('Эта функция доступна только администраторам')"> миром </a> </span> заказами из личного кабинета</li>
+        </ul>
+    </div>
+</div>
+

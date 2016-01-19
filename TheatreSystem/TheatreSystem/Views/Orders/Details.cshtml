@@ -1,0 +1,29 @@
+﻿@model TheatreSystem.Models.Order
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Order</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.IsConfirmed)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IsConfirmed)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.User.Name)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.User.Name)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
