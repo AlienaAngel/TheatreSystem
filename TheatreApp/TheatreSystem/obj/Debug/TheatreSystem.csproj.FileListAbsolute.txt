@@ -232,7 +232,6 @@ h:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.A
 h:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.csproj.GenerateResource.Cache
 h:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.dll
 h:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.pdb
-d:\Univer\РПБД\TheatreApp\TheatreSystem\bin\App_Data\klever.gif
 h:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Content\klever.gif
 F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Content\klever.gif
 F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\roslyn\csc.exe
@@ -353,3 +352,9 @@ i:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.csproj.Gener
 i:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.dll
 i:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.pdb
 F:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\Univer\РПБД\TheatreApp\TheatreSystem\bin\Content\klever.gif
+D:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddGenre1.resources
+D:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddAuthor.resources
+D:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddDatePlay.resources
+D:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddInit.resources
+D:\Univer\РПБД\TheatreApp\TheatreSystem\obj\Debug\TheatreSystem.Migrations.AddInit1.resources

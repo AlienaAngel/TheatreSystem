@@ -122,11 +122,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\TheatreDB7.mdf" />
+    <Content Include="App_Data\TheatreDB7_log.ldf" />
     <Content Include="Content\klever.gif">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="App_Data\TheatreDB1.mdf" />
-    <Content Include="App_Data\TheatreDB1_log.ldf" />
     <Content Include="Content\bootstrap-datetimepicker.css" />
     <Content Include="Content\bootstrap-datetimepicker.min.css" />
     <Content Include="Content\bootstrap-theme.css" />
@@ -242,8 +242,32 @@
     <Compile Include="Migrations\201512100922245_AddPlaces.Designer.cs">
       <DependentUpon>201512100922245_AddPlaces.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201601231200484_AddGenre1.cs" />
+    <Compile Include="Migrations\201601231200484_AddGenre1.Designer.cs">
+      <DependentUpon>201601231200484_AddGenre1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201601231213461_AddAuthor.cs" />
+    <Compile Include="Migrations\201601231213461_AddAuthor.Designer.cs">
+      <DependentUpon>201601231213461_AddAuthor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201601231252022_AddDatePlay.cs" />
+    <Compile Include="Migrations\201601231252022_AddDatePlay.Designer.cs">
+      <DependentUpon>201601231252022_AddDatePlay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201601231326029_AddInit.cs" />
+    <Compile Include="Migrations\201601231326029_AddInit.Designer.cs">
+      <DependentUpon>201601231326029_AddInit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201601231330435_AddInit1.cs" />
+    <Compile Include="Migrations\201601231330435_AddInit1.Designer.cs">
+      <DependentUpon>201601231330435_AddInit1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Author.cs" />
     <Compile Include="Models\Context.cs" />
+    <Compile Include="Models\DatePlay.cs" />
+    <Compile Include="Models\Genre.cs" />
+    <Compile Include="Models\Initializer.cs" />
     <Compile Include="Models\Order.cs" />
     <Compile Include="Models\Place.cs" />
     <Compile Include="Models\Play.cs" />
@@ -312,6 +336,21 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201512100922245_AddPlaces.resx">
       <DependentUpon>201512100922245_AddPlaces.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201601231200484_AddGenre1.resx">
+      <DependentUpon>201601231200484_AddGenre1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201601231213461_AddAuthor.resx">
+      <DependentUpon>201601231213461_AddAuthor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201601231252022_AddDatePlay.resx">
+      <DependentUpon>201601231252022_AddDatePlay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201601231326029_AddInit.resx">
+      <DependentUpon>201601231326029_AddInit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201601231330435_AddInit1.resx">
+      <DependentUpon>201601231330435_AddInit1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

@@ -33,18 +33,19 @@ namespace TheatreSystem.Controllers
                 }
 
                 ViewBag.CurrentFilter = searchString;
+                //TODO
+                //var orders = db.Orders.Include(o => o.User).Include(o => o.Tickets.Select(x=>x.Play));
 
-                var orders = db.Orders.Include(o => o.User).Include(o => o.Tickets.Select(x=>x.Play));
+                //if (!String.IsNullOrEmpty(searchString))
+                //{
+                //    orders = orders.Where(s => s.User.Name.Contains(searchString));
+                //}
+                //orders = orders.OrderBy(s => s.Id);
 
-                if (!String.IsNullOrEmpty(searchString))
-                {
-                    orders = orders.Where(s => s.User.Name.Contains(searchString));
-                }
-                orders = orders.OrderBy(s => s.Id);
-
-                int pageSize = 10;
-                int pageNumber = (page ?? 1);
-                return View(orders.ToPagedList(pageNumber, pageSize));
+                //int pageSize = 10;
+                //int pageNumber = (page ?? 1);
+                //return View(orders.ToPagedList(pageNumber, pageSize));
+                return View();
             }
             else
             {

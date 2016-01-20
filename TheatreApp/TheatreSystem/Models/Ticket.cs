@@ -10,8 +10,8 @@ namespace TheatreSystem.Models
         public int Id { get; set; }
         public string Serial { get; set; }
 
-        public int PlayId { get; set; }
-        public virtual Play Play { get; set; }
+        public int DatePlayId { get; set; }
+        public virtual DatePlay DatePlay { get; set; }
 
         public int PlaceId { get; set; }
         public virtual Place Place { get; set; }

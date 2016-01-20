@@ -9,21 +9,30 @@ namespace TheatreSystem.Models
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public DateTime DatePlay { get; set; }
         public string Info { get; set; }
-        public virtual List<Ticket> Tickets { get; set; }
+        
+
+        public int? GenreId { get; set; }
+        public Genre Genre { get; set; }
+
+        public int AuthorId { get; set; }
+        public Author Author { get; set; }
+
+        public virtual List<DatePlay> DatePlays { get; set; }
+        
 
         public Play() {
-            Tickets = new List<Ticket>();
+            DatePlays = new List<DatePlay>();
         }
 
-        public Play(int id, DateTime datePlay, string info, string name)
+        public Play(int id, string info, string name, Genre genre, Author author)
         {
             Id = id;
-            DatePlay = datePlay;
             Info = info;
             Name = name;
-            Tickets = new List<Ticket>();
+            Genre = genre;
+            Author = author;
+            DatePlays = new List<DatePlay>();
         }
 
     }

@@ -48,7 +48,8 @@ namespace TheatreSystem.Controllers
                     plays = plays.OrderByDescending(s => s.Name);
                     break;
                 case "Date":
-                    plays = plays.OrderBy(s => s.DatePlay);
+                    //TODO
+                    //plays = plays.OrderBy(s => s.DatePlay);
                     break;
                 default:  // Name ascending 
                     plays = plays.OrderBy(s => s.Name);
@@ -92,31 +93,32 @@ namespace TheatreSystem.Controllers
 
 
 
-            List<Ticket> tickets = db.Plays.Find(id).Tickets;
+            //List<Ticket> tickets = db.Plays.Find(id).Tickets;
 
-            //tickets.Where(x=>x.Place.Zone)
 
-            List<ZoneInfoViewModel> zoneInfos = new List<ZoneInfoViewModel>();
-            foreach (Zone z in db.Zones)
-            {
-                int count = z.Places.Count();
-                int ordered = tickets.Where(x => x.Place.ZoneId == z.Id).Count();
-                //    int count = db.Plays.Find(id).Tickets.Where(x => x.ZoneId == z.Id).Count();
-                //    int ordered = db.Plays.Find(id).Tickets.Where(x => x.Order != null && x.ZoneId == z.Id).Count();
-                count = count - ordered;
 
-                List<Place> or = tickets.Select(x => x.Place).Where(x=>x.Zone.Id==z.Id).ToList();
-                List<Place> al = z.Places;
+            //List<ZoneInfoViewModel> zoneInfos = new List<ZoneInfoViewModel>();
+            //foreach (Zone z in db.Zones)
+            //{
+            //    int count = z.Places.Count();
+            //    int ordered = tickets.Where(x => x.Place.ZoneId == z.Id).Count();
+            //    //    int count = db.Plays.Find(id).Tickets.Where(x => x.ZoneId == z.Id).Count();
+            //    //    int ordered = db.Plays.Find(id).Tickets.Where(x => x.Order != null && x.ZoneId == z.Id).Count();
+            //    count = count - ordered;
 
-                List<Place> sel = al.Union(or).Except(al.Intersect(or)).ToList();
+            //    List<Place> or = tickets.Select(x => x.Place).Where(x=>x.Zone.Id==z.Id).ToList();
+            //    List<Place> al = z.Places;
 
-                ZoneInfoViewModel zoneInfo = new ZoneInfoViewModel(z.Name, count, ordered, sel );
-                zoneInfos.Add(zoneInfo);
-            }
+            //    List<Place> sel = al.Union(or).Except(al.Intersect(or)).ToList();
 
-            // TODO
-            ViewBag.Play = db.Plays.Find(id);
-            return View(zoneInfos);
+            //    ZoneInfoViewModel zoneInfo = new ZoneInfoViewModel(z.Name, count, ordered, sel );
+            //    zoneInfos.Add(zoneInfo);
+            //}
+
+            //// TODO
+            //ViewBag.Play = db.Plays.Find(id);
+            //return View(zoneInfos);
+            return View(new List<ZoneInfoViewModel>());
         }
 
         // GET: Plays/Create
@@ -285,7 +287,8 @@ namespace TheatreSystem.Controllers
 
                     Ticket ticket = new Ticket();
                     ticket.Serial = Guid.NewGuid().ToString();
-                    ticket.Play = p;
+                    //TODO
+                    //ticket.Play = p;
                     ticket.Place = pc;
                     ticket.OrderId = order.Id;
                     db.Tickets.Add(ticket);

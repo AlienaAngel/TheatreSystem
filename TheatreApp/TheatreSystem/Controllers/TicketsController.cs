@@ -33,20 +33,21 @@ namespace TheatreSystem.Controllers
                 }
 
                 ViewBag.CurrentFilter = searchString;
+                //TODO
+                //var tickets = db.Tickets.Include(t => t.Order).Include(t => t.Play).Include(t => t.Place.Zone);
 
-                var tickets = db.Tickets.Include(t => t.Order).Include(t => t.Play).Include(t => t.Place.Zone);
+                //if (!String.IsNullOrEmpty(searchString))
+                //{
+                //    tickets = tickets.Where(s => s.Place.Zone.Name.Contains(searchString));
+                //}
 
-                if (!String.IsNullOrEmpty(searchString))
-                {
-                    tickets = tickets.Where(s => s.Place.Zone.Name.Contains(searchString));
-                }
-
-                tickets = tickets.OrderBy(s => s.Place.Zone.Name);
+                //tickets = tickets.OrderBy(s => s.Place.Zone.Name);
 
 
-                int pageSize = 10;
-                int pageNumber = (page ?? 1);
-                return View(tickets.ToPagedList(pageNumber, pageSize));
+                //int pageSize = 10;
+                //int pageNumber = (page ?? 1);
+                //return View(tickets.ToPagedList(pageNumber, pageSize));
+                return View();
             }
             else
             {
@@ -136,7 +137,8 @@ namespace TheatreSystem.Controllers
                         return HttpNotFound();
                     }
                     ViewBag.OrderId = new SelectList(db.Orders, "Id", "Id", ticket.OrderId);
-                    ViewBag.PlayId = new SelectList(db.Plays, "Id", "Name", ticket.PlayId);
+                    //TODO
+                    //ViewBag.PlayId = new SelectList(db.Plays, "Id", "Name", ticket.PlayId);
                     ViewBag.ZoneId = new SelectList(db.Zones, "Id", "Name", ticket.Place.ZoneId);
                     return View(ticket);
                 }
@@ -169,7 +171,8 @@ namespace TheatreSystem.Controllers
                         return RedirectToAction("Index");
                     }
                     ViewBag.OrderId = new SelectList(db.Orders, "Id", "Id", ticket.OrderId);
-                    ViewBag.PlayId = new SelectList(db.Plays, "Id", "Name", ticket.PlayId);
+                    //TODO
+                    //ViewBag.PlayId = new SelectList(db.Plays, "Id", "Name", ticket.PlayId);
                     ViewBag.ZoneId = new SelectList(db.Zones, "Id", "Name", ticket.Place.ZoneId);
                     return View(ticket);
                 }
